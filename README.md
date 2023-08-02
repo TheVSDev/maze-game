@@ -33,4 +33,4 @@ Each level is randomlu generated maze, so you won't have to do one maze in a loo
 
 ## Author
 
-- Website - [Veljko Spasic](https://veljkospasic.rf.gd)
+- Website - [Veljko Spasic](https://veljko-spasic.rf.gd)
