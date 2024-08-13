@@ -9,7 +9,6 @@ Browser Maze Game.
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-- [Author](#author)
 
 ## Overview
 
@@ -30,7 +29,3 @@ Each level is randomlu generated maze, so you won't have to do one maze in a loo
 - HTML
 - CSS
 - JS
-
-## Author
-
-- Website - [Veljko Spasic](https://veljko-spasic.rf.gd)
